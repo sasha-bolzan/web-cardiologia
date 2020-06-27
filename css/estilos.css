@@ -23,10 +23,14 @@ html{
   font-family: 'Roboto';
   align-items: center;
   margin-left: 70px;
+ 
   
 
 
 
+ }
+ .navbar-dark{
+   height: 14%;
  }
 
 
@@ -39,7 +43,7 @@ main{
   color: #292744;
   font-family: 'Roboto';
   font-size: 20px;
-  height: 88%;
+  height: 70%;
 
 }
  
@@ -102,7 +106,7 @@ footer{
   color: #505053;
   font-family: 'Josefin Sans';
   font-size: 22px;
-  height: 12%;
+  height: 13%;
 
 
 }
