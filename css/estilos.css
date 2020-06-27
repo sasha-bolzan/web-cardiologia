@@ -16,22 +16,18 @@ html{
 
 .navbar-brand{ 
   font-family: 'Josefin Sans';
-  font-size: 60px;
-  text-align: left;
-
+  margin-top: 22px;
 }
 .navbar-nav{
   font-size:  20px;
   font-family: 'Roboto';
   align-items: center;
-  margin-left: 50px;
-  padding-top: 10px;
-  height: 10%;
+  margin-left: 70px;
+  
 
 
 
  }
-
 
 
 
@@ -43,7 +39,7 @@ main{
   color: #292744;
   font-family: 'Roboto';
   font-size: 20px;
-  height: 77%;
+  height: 88%;
 
 }
  
@@ -106,7 +102,7 @@ footer{
   color: #505053;
   font-family: 'Josefin Sans';
   font-size: 22px;
-  height: 13%;
+  height: 12%;
 
 
 }
@@ -118,29 +114,7 @@ footer{
 
 
 
-.bg-naranja {
-    background-color: #ef632d;
-}
 
-.bg-naranja .navbar-toggler {
-    
-    border-color: rgba(255,255,255, 0.7);
-}
-
-
-.bg-naranja .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
-}
-
-
-.bg-naranja a {
-    
-    color: rgba(255,255,255, 0.6);
-}
-.bg-naranja .active a{
-    
-    color: rgba(255,255,255, 1);
-}
 
 
 @font-family 'Montserrat Alternates', sans-serif;
