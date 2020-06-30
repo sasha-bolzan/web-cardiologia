@@ -8,17 +8,16 @@ html{
 
 .navbar-brand{ 
   font-family: 'Josefin Sans';
-  text-align: center;
+  text-align: left;
 
 }
-.nomNav{
-  font-size: 20px;
-}
+
 .navbar-nav{
   font-size:  20px;
   font-family: 'Roboto';
   align-items: center;
   margin-left: 70px;
+  margin-top: 10px;
   
  
   
@@ -120,7 +119,16 @@ footer{
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
   .navbar-nav{
-    margin-left: 0px;}
+    margin-left: 0px;
+  display: flex;
+}
+ .navbar-brand{ 
+  font-family: 'Josefin Sans';
+  text-align: left;
+  font size: 10px;
+  display: flex;
+
+}
 
     main{
        margin-top: 50px;
@@ -133,7 +141,16 @@ footer{
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
   .navbar-nav{
-    margin-left: 0px;}
+    margin-left: 0px;
+  display: flex;
+}
+ .navbar-brand{ 
+  font-family: 'Josefin Sans';
+  text-align: left;
+  font size: 10px;
+  display: flex;
+
+}
 
      main{
        margin-top: 50px;
@@ -149,9 +166,19 @@ footer{
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) { 
   .navbar-nav{
-    margin-left: 0px;}
+    margin-left: 0px;
+    display: flex;
+  }
 
-     main{
+  .navbar-brand{ 
+  font-family: 'Josefin Sans';
+  text-align: left;
+  font size: 10px;
+  display: flex;
+
+}
+
+  main{
        margin-top: 50px;
 
     }
