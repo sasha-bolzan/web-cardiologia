@@ -100,7 +100,7 @@ footer{
   color: #505053;
   font-family: 'Josefin Sans';
   font-size: 22px;
-  height: 13%;
+  
 
 
 }
@@ -125,7 +125,7 @@ footer{
  .navbar-brand{ 
   font-family: 'Josefin Sans';
   text-align: left;
-  font size: 10px;
+  font size: 5px;
   display: flex;
 
 }
@@ -147,7 +147,7 @@ footer{
  .navbar-brand{ 
   font-family: 'Josefin Sans';
   text-align: left;
-  font size: 10px;
+  font size: 5px;
   display: flex;
 
 }
@@ -173,7 +173,7 @@ footer{
   .navbar-brand{ 
   font-family: 'Josefin Sans';
   text-align: left;
-  font size: 10px;
+  font size: 5px;
   display: flex;
 
 }
