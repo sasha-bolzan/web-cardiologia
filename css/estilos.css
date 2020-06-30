@@ -120,18 +120,17 @@ footer{
 @media (max-width: 575.98px) {
   .navbar-nav{
     margin-left: 0px;
-  display: flex;
+  display: flex flex;
 }
  .navbar-brand{ 
   font-family: 'Josefin Sans';
   text-align: left;
-  font size: 5px;
   display: flex;
 
 }
 
     main{
-       margin-top: 50px;
+       margin-top: 40px;
 
     }
  
@@ -147,13 +146,12 @@ footer{
  .navbar-brand{ 
   font-family: 'Josefin Sans';
   text-align: left;
-  font size: 5px;
   display: flex;
 
 }
 
      main{
-       margin-top: 50px;
+       margin-top: 40px;
 
     }
 
@@ -173,13 +171,12 @@ footer{
   .navbar-brand{ 
   font-family: 'Josefin Sans';
   text-align: left;
-  font size: 5px;
   display: flex;
 
 }
 
   main{
-       margin-top: 50px;
+       margin-top: 40px;
 
     }
    
