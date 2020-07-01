@@ -8,6 +8,7 @@ html{
 .navbar-brand{ 
   font-family: 'Josefin Sans';
   text-align: left;
+  margin-top: 5px;
 
 }
 
@@ -16,15 +17,15 @@ html{
   font-family: 'Roboto';
   align-items: center;
   margin-left: 70px;
-  margin-top: 10px;
+  margin-top: 5px;
 
   
- 
+  
   
 
 
 
- }
+}
 
 
 
@@ -37,10 +38,10 @@ main{
   font-family: 'Roboto';
   font-size: 20px;
   height: 70%;
- 
+  
 
 }
- 
+
 .contactoDentro{
   text-align: left;
   font-size: 23px;
@@ -54,7 +55,7 @@ main{
 .turnos{
   font-size: 34px;
   font-weight: bold;
- 
+  
 }
 
 
@@ -104,11 +105,11 @@ footer{
 
 
 }
- .afip{
+.afip{
   width: 60px;
   height: 100%;
   text-align: center;
- }
+}
 
 
 
@@ -120,19 +121,19 @@ footer{
 @media (max-width: 575.98px) {
   .navbar-nav{
     margin-left: 0px;
-  display: flex;
-}
- .navbar-brand{ 
-  font-family: 'Josefin Sans';
-  text-align: left;
-  display: flex;
+    display: flex;
+  }
+  .navbar-brand{ 
+    font-family: 'Josefin Sans';
+    text-align: left;
+    display: flex;
 
-}
+  }
 
-    main{
-       margin-top: 40px;
+  main{
+   margin-top: 40px;
 
-    }
+ }
  
 
 }
@@ -141,25 +142,25 @@ footer{
 @media (min-width: 576px) and (max-width: 767.98px) {
   .navbar-nav{
     margin-left: 0px;
-  display: flex;
-}
- .navbar-brand{ 
-  font-family: 'Josefin Sans';
-  text-align: left;
-  display: flex;
+    display: flex;
+  }
+  .navbar-brand{ 
+    font-family: 'Josefin Sans';
+    text-align: left;
+    display: flex;
 
-}
+  }
 
-     main{
-       margin-top: 40px;
-
-    }
-
-  
-   
-
+  main{
+   margin-top: 40px;
 
  }
+
+ 
+ 
+
+
+}
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) { 
@@ -169,18 +170,18 @@ footer{
   }
 
   .navbar-brand{ 
-  font-family: 'Josefin Sans';
-  text-align: left;
-  display: flex;
+    font-family: 'Josefin Sans';
+    text-align: left;
+    display: flex;
 
-}
+  }
 
   main{
-       margin-top: 40px;
+   margin-top: 40px;
 
-    }
-   
-   
+ }
+ 
+ 
 }
 
 /* Large devices (desktops, 992px and up) */
