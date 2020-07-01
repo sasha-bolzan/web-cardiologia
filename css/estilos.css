@@ -30,6 +30,9 @@ html{
 
 
 }
+.navbar-toggler{
+  object-position: left;
+}
 
 
 
